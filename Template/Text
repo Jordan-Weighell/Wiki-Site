@@ -1,0 +1,46 @@
+<div class="logo">
+    <img class="img1" src="Styles/Images/Placeholderlogo.png" alt="Logo">
+        </div>
+    <br>
+    <div class="title">
+    <h1>Writing Projects and Wikis</h1>
+        </div>
+    
+    <div class="navbar">
+                <div class="dropdown">
+                    <button class="dropbtn">Explore ⮟
+                     <i class="fa fa-caret-down"></i>
+                     </button>
+                    <div class="dropdown-content">
+                        <a href="Index.html">Home</a>
+                        <a href="About.html">About</a>
+                     </div>
+                </div>   
+                <div class="dropdown">
+                    <button class="dropbtn">Project 1 ⮟
+                     <i class="fa fa-caret-down"></i>
+                     </button>
+                    <div class="dropdown-content">
+                        <a href="Index.html">Home</a>
+                     </div>
+                </div>
+                <div class="dropdown">
+                    <button class="dropbtn">Project 2 ⮟
+                     <i class="fa fa-caret-down"></i>
+                     </button>
+                    <div class="dropdown-content">
+                        <a href="Index.html">Home</a>
+                     </div>
+                </div>
+    </div> 
+    
+    border-bottom: 0.2vw solid black;
+    
+    
+    Hex codes:
+        Black #282b2d
+        Grey #161616
+        Crimson #660000
+        Off-white #FAF9F6
+        Off-yellow #FAF3DD
+        Gold #FFC300

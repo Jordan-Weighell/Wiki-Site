@@ -1,0 +1,33 @@
+body {background-color: grey;}
+
+/* Footer */
+
+.foottext {
+  text-align: center;
+  padding-top: 20px;
+  color: #FAF9F6;
+  font-size: 12px;
+  font-family: Georgia, serif;
+}
+
+.links {
+  text-align: center;
+  font-size: 40px;
+}
+
+.contact {
+  text-align: center;
+  top: 0px;
+  color: #FAF9F6;
+  font-size: 12px;
+  font-family: Arial, sans-serif; 
+}
+
+.copywrite {
+  text-align: center;
+  top: 0px;
+  color: #FAF9F6;
+  font-size: 12px;
+  font-family: Arial, sans-serif;
+}
+/* Footer */
